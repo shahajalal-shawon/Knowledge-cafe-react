@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/CMD8V4p/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Alice Smith",
+        "author_img": "https://i.ibb.co/JHqCVYm/where-is-pykh-3vfug-HP3-Ro-unsplash.jpg",
+        "posted_date": "2023-09-13",
+        "reading_time": 10,
+        "hashtags": ["adventure", "mystery", "fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/sq5Mb8s/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+        "title": "Cooking Delights",
+        "author": "Bob Johnson",
+        "author_img": "https://i.ibb.co/KLBFwXy/jaikishan-patel-2-V6-Kug-Yewus-unsplash-1.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 15,
+        "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/dP8d0hs/davisuko-5-E5-N49-RWtb-A-unsplash.jpg",
+        "title": "Tech Trends",
+        "author": "Ella Brown",
+        "author_img": "https://i.ibb.co/KqKsBG4/brooke-cagle-w-KOKid-NT14w-unsplash.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 7,
+        "hashtags": ["technology", "innovation"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/W3N6TPF/ben-white-7-Bi-MECHFg-FY-unsplash.jpg",
+        "title": "Travel Diaries",
+        "author": "David Wilson",
+        "author_img": "https://i.ibb.co/QXzXwRW/tim-mossholder-0n126-RMSSLk-unsplash.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 20,
+        "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/gv5hWrw/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+        "title": "Health & Wellness",
+        "author": "Grace Miller",
+        "author_img": "https://i.ibb.co/CmpB7GL/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 12,
+        "hashtags": ["health", "wellness", "fitness"]
+    }
+]
